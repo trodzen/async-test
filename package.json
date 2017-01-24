@@ -1,0 +1,29 @@
+{
+  "name": "async-test",
+  "version": "1.0.0",
+  "description": "Asynchronous mysql test application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trodzen/async-test.git"
+  },
+  "keywords": [
+    "async",
+    "mysql",
+    "express",
+    "test"
+  ],
+  "author": "Todd Rodzen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trodzen/async-test/issues"
+  },
+  "homepage": "https://github.com/trodzen/async-test#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mysql": "^2.12.0"
+  }
+}
